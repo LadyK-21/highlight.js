@@ -1,0 +1,1 @@
+<span class="hljs-tag" data-klass="tag">&lt;<span class="hljs-title" data-klass="title">Top</span>::-<span class="hljs-title" data-klass="title">Namespace</span> /&gt;</span>
